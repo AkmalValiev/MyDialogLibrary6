@@ -1,0 +1,4 @@
+rootProject.name = "MyDialogLibrary6"
+include ':app'
+include ':MyDialogLibrary6'
+include ':Library'
